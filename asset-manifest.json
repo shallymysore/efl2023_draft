@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/efl2023_draft/static/css/main.cceef3e3.css",
-    "main.js": "/efl2023_draft/static/js/main.824ee363.js",
+    "main.js": "/efl2023_draft/static/js/main.81f8a550.js",
     "static/js/787.aa143c0f.chunk.js": "/efl2023_draft/static/js/787.aa143c0f.chunk.js",
     "static/media/auction_hand.png": "/efl2023_draft/static/media/auction_hand.5f736284011b0c5b66bf.png",
     "index.html": "/efl2023_draft/index.html",
     "main.cceef3e3.css.map": "/efl2023_draft/static/css/main.cceef3e3.css.map",
-    "main.824ee363.js.map": "/efl2023_draft/static/js/main.824ee363.js.map",
+    "main.81f8a550.js.map": "/efl2023_draft/static/js/main.81f8a550.js.map",
     "787.aa143c0f.chunk.js.map": "/efl2023_draft/static/js/787.aa143c0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cceef3e3.css",
-    "static/js/main.824ee363.js"
+    "static/js/main.81f8a550.js"
   ]
 }
